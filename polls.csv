@@ -1,0 +1,9 @@
+id,poll,option1,option2,option3,vote1,vote2,vote3
+1,Team1,A,B,C,14,3,5
+2,Team2,A,B,C,0,1,0
+3,Team3,A,B,C,0,0,0
+4,Team4,A,B,C,0,1,0
+5,Team4,F,R,T,0,0,0
+6,Team5,y,t,r,7,2,5
+7,Team5,U,Y,G,0,0,0
+8,Team Dharanish,A,B,C,0,0,1
